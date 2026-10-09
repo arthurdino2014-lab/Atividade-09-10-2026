@@ -13,7 +13,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px 10%;
+  padding: 30px 10%;
   background: #ffffff;
 }
 
@@ -61,7 +61,7 @@ h1 {
 }
 
 .descricao {
-  text-align: right;
+  text-align: center;
   color: #53675c;
   font-size: 1.08rem;
   line-height: 1.7;
@@ -70,14 +70,14 @@ h1 {
 
 .hero-imagem img {
   width: 145%;
-  height: 420px;
+  height: 210px;
   object-fit: cover;
   border-radius: 24px;
   display: block;
 }
 
 .botao {
-  width: 105px;
+  width: 110px;
   overflow: hidden;
   display: inline-block;
   padding: 14px 24px;
@@ -113,7 +113,7 @@ h1 {
 }
 
 .chamada {
-  color: #e1f0e5;
+  color: #e4ece6;
   margin: 0 7% 48px;
   padding: 36px;
   background: #e1f0e5;
